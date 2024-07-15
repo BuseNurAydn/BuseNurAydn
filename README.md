@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there ,I am Buse Nur Aydın 👋
 
-<!--
-**BuseNurAydn/BuseNurAydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer, tech enthusiast and problem solver. I am improving myself in the field of Frontend development and I am willing to improve myself in the field of Backend development.
+
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [busenuraydin521@gmail.com]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
