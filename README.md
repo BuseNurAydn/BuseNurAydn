@@ -10,8 +10,7 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 - 📫 How to reach me: busenuraydin521@gmail.com
 
 
-### Skills
-#### Technologies
+### Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
