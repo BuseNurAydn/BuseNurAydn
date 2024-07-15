@@ -12,3 +12,5 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/buse-nur-ayd%C4%B1n-a18967227/)
 
+### GitHub Stats
+![BuseNurAydn's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuseNurAydn&show_icons=true&theme=radical)
