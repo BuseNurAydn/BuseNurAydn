@@ -6,6 +6,6 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 
 ### About Me
 - 🔭 I’m currently working on FullStack Web Developer
-- 🌱 I’m currently learning on React, Scss, .netCore
+- 🌱 I’m currently learning on React.js, Scss, .netCore
 - 📫 How to reach me: busenuraydin521@gmail.com
 
