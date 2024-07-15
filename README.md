@@ -9,3 +9,6 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 - 🌱 I’m currently learning on React.js, Scss, .netCore
 - 📫 How to reach me: busenuraydin521@gmail.com
 
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yourprofile)
+
