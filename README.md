@@ -35,4 +35,7 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busenuraydn&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busenuraydn&theme=radical)
 
+![Profile views](https://komarev.com/ghpvc/?username=busenuraydn&color=blue)
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=busenuraydn&theme=radical)
