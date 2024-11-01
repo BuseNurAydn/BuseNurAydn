@@ -6,7 +6,7 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 
 ### About Me
 - 🔭 I’m currently working on Full Stack Web Developer
-- 🌱 I’m currently learning on React.js, SCSS, Tailwind CSS, ASP.NET Core
+- 🌱 I’m currently learning on React.js, TypeScript, Tailwind CSS, ASP.NET Core
 - 📫 How to reach me: busenuraydin521@gmail.com
 
 
