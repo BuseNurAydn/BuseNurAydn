@@ -34,5 +34,5 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 
 ### 📈 GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busenuraydn&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busenuraydn&Height=60layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busenuraydn&layout=compact&theme=radical)
 
