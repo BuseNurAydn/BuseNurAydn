@@ -29,6 +29,14 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 
+### 🎯 Hedefler 
+
+- 🌍 **Gelecek Hedefler**:  
+  - Yenilikçi ve kullanıcı dostu uygulamalar geliştirmek.  
+  - Yapay zeka teknolojilerinde kendimi geliştirmek.   
+  - Backend geliştirme becerilerimi artırarak Full Stack geliştirici olmak.
+
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/buse-nur-ayd%C4%B1n-a18967227/)
 
