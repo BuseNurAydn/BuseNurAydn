@@ -29,6 +29,7 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 
+
 ### 🎯 Goals
   - I aim to specialize as a Frontend Developer
   - Developing innovative and user-friendly applications. 
@@ -36,8 +37,11 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
   - To become a Full Stack Developer by increasing my backend development skills.
 
 
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/buse-nur-ayd%C4%B1n-a18967227/)
+
+
 
 ### 📈 GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busenuraydn&theme=radical)
