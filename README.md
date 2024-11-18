@@ -29,12 +29,11 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 
-### 🎯 Hedefler 
-
-- 🌍 **Gelecek Hedefler**:  
-  - Yenilikçi ve kullanıcı dostu uygulamalar geliştirmek.  
-  - Yapay zeka teknolojilerinde kendimi geliştirmek.   
-  - Backend geliştirme becerilerimi artırarak Full Stack geliştirici olmak.
+### 🎯 Goals
+  - I aim to specialize as a Frontend Developer
+  - Developing innovative and user-friendly applications. 
+  - To improve myself in artificial intelligence technologies.  
+  - To become a Full Stack Developer by increasing my backend development skills.
 
 
 ### 📫 Connect with Me
