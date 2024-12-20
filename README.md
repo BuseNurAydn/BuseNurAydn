@@ -47,6 +47,6 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 
 ### 📈 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=BuseNurAydn&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuseNurAydn&layout=compact&theme=radical&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuseNurAydn&layout=compact&theme=radical&langs_count=11)
 
 
