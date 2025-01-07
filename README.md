@@ -1,7 +1,7 @@
 ## Hi there ,I am Buse Nur Aydın! 👋
 
 I am a software developer, tech enthusiast and problem solver. I am improving myself in the field of Frontend development and I am willing to improve myself in the field of Backend development.
-Web sitem : https://busenur-aydin.vercel.app/
+
 
 
 ### About Me
