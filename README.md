@@ -9,7 +9,7 @@ Web sitem : https://busenur-aydin.vercel.app/
 - 🌱 I’m currently learning on React.js, TypeScript, Tailwind CSS, .NET Core
 - ⚡ I am improving myself in the field of artificial intelligence with the Artificial Intelligence and Technology Academy.
 - 📫 How to reach me: busenuraydin521@gmail.com
-
+- 📫 Web sitem : https://busenur-aydin.vercel.app/
 
 
 ### 🌐 Technologies and Tools
