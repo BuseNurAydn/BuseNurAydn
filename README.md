@@ -6,7 +6,7 @@ I am a software developer, tech enthusiast and problem solver. I am improving my
 
 ### About Me
 - 🔭 I’m currently working on Frontend Developer & Full Stack Developer
-- 🌱 I’m currently learning on React.js, TypeScript, Tailwind CSS, .NET Core
+- 🌱 I’m currently learning on React.js, TypeScript, Tailwind CSS, Material UI, ASP.NET Core
 - ⚡ I am improving myself in the field of artificial intelligence with the Artificial Intelligence and Technology Academy.
 - 📫 How to reach me: busenuraydin521@gmail.com
 - 📫 Web sitem : https://busenur-aydin.vercel.app/
